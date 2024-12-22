@@ -1,0 +1,20 @@
+body{
+    background-color: #999999;
+}
+
+
+.navbar{
+    background-color: #999999 !important;
+}
+
+
+.p{
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+
+.nav-link{
+    color: #1D225C;
+    font-size: 25px;
+    font-weight: bold;
+}
